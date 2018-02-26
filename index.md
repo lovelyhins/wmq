@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 大家好啊，欢迎来到 hins 小 玻璃球
 
 You can use the [editor on GitHub](https://github.com/lovelyhins/wmq/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
